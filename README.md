@@ -1,3 +1,9 @@
+# Songs
+
+Songs is a React based web application that displays a list of songs and shows you basic info about the songs you select. The technologies and practices used consist of: HTML5, JSX, CSS3, JavaScript, React/React.js and ES6.
+
+[Live Demo](https://h-khan-14.github.io/Songs/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
